@@ -1,3 +1,10 @@
+/*========================================================================================
+ * SERVER
+ * ========================================================================================
+ * THIS FILE ROUTES PATH TO SPECIFIC PAGES/VIEWS
+ * - Loads router modules in [ex. app.use("/projects", projectRouter);]
+ */
+
 const express = require("express");
 const app = express();
 const { ROLE, users } = require("./data");

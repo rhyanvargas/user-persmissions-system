@@ -1,8 +1,8 @@
-/*============================================
+/*=========================================================================================
  * PROJECT PERMISSIONS
- * ============================================
+ * ========================================================================================
  * THIS GROUP OF FUNCTIONS ARE DECOUPLED FROM THE ROUTES
- * ex. You can show "delete button" to users who "canDeleteProject"
+ * - You can show "delete button" to users who "canDeleteProject"
  * - Simply use the canDeleteProject function in the view
  */
 
